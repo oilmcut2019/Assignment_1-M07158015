@@ -1,7 +1,0 @@
-Please introduce yourself such as :
-
-Name 		:Randy Chen
-Student ID 	:M07158015
-Major 		:Student
-
-After that, push on directory github classroom using "Git". 
